@@ -34,8 +34,8 @@ import { Agent as SSLAgent, } from 'https';
 function processOptions({
 	hosts: {
 		api    = 'nhentai.net',
-		images = 'i.nhentai.net',
-		thumbs = 't.nhentai.net',
+		images = 'i1.nhentai.net',
+		thumbs = 't1.nhentai.net',
 	} = {},
 	ssl   = true,
 	agent = null,
